@@ -1,2 +1,2 @@
 # firegram_react_app
- simplpe instagram app
+ simple instagram like app
